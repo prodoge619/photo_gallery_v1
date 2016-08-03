@@ -1,0 +1,38 @@
+.example-image {
+  padding-left: 60px;
+  padding-top: 60px;
+
+}
+
+div {
+  text-align: center;
+}
+
+#searchField {
+    height: 30px;
+    width: 460px;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+
+.lb-data .lb-caption {
+  position: absolute;
+  font-size: 1.2em;
+  font-weight: 300;
+  padding-top: 30px;
+  max-width: 600px;
+  text-align: center;
+  padding-left: 70px;
+  font-weight: bolder;
+}
+
+.image-list {
+  padding-top: 30px;
+}
+
+.lightbox .lb-image {
+  display: block;
+  border-radius: 3px;
+  max-height: 449px;
+  max-width: 713px;
+}
